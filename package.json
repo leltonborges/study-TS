@@ -1,6 +1,13 @@
 {
-  "name": "01-entendendo-TS",
+  "name": "entendendo_ts",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "start": "live-server dir/"
+  },
+  "devDependencies": {
+    "@types/node": "18.7.8",
+    "ts-node": "10.9.1"
+  }
 }
