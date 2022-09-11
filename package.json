@@ -7,12 +7,14 @@
     "start": ""
   },
   "devDependencies": {
+    "@types/jquery": "3.5.14",
+    "@types/node": "18.7.8",
     "axios": "0.27.2",
     "ts-node": "10.9.1",
     "ts-node-dev": "2.0.0"
   },
   "dependencies": {
-    "@types/node": "18.7.8",
+    "jquery": "3.6.1",
     "typescript": "4.7.4"
   }
 }
